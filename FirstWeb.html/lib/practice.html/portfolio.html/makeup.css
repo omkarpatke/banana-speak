@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+body{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1rem;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: #F3F4F6;
+}
+hr{
+    margin: 3rem 0rem;
+}
+
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.container-fluid{
+    max-width: auto;
+    margin: auto;
+}
+
+
+.link-primary{
+    background-color: #3B82F6;
+    border-radius: 0.5rem;
+    color: white;
+}
+.link-secondary{
+    background-color: #3B82F6;
+    border-radius: 0.5rem;
+    border: 1px solid ;
+
+}
+.link{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+     color: black;
+}
+
+/** list **/
+
+.non-bullet{
+  list-style: none;
+}
+
+
+.inline-list {
+    display: inline;
+    padding: 0rem 0.5rem ;
+}
+ .map{
+     background-color: #3B82F6;
+     border-bottom-left-radius: 1rem;
+ }
+.navigation{
+    padding: 1rem;
+    
+}
+.nav-brand{
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 1rem;
+}
+
+  .link{
+     color: white;
+ }
+ .nav-pills{
+     text-align: right;
+ }
+ .link-active{
+     font-weight: bold;
+ }
+ .hero-heading{
+     text-align: center;
+     font-size: 3rem;
+     
+ }
+ .hero-img{
+   max-width: 350px;
+   margin: auto;
+   display: block;
+ }
+ .hero{
+     padding: 2rem;
+ }
+ .content{
+     color: #3B82F6;
+ }
+ .section h3{
+     text-align: center;
+     padding: 2rem;
+ }
+ .section-ow{
+     background-color: #D1D5DB;
+     padding: 1rem;
+ }
+ .see{
+     max-width: 600px;
+     margin: auto;
+ }
+ .ow{
+   text-align: center;
+ }
+ section{
+     padding: 2rem;
+ }
+ .footer-header{
+     background-color: #3B82F6;
+     padding:2rem 1rem ;
+     color: white;
+     text-align: center;
+     border-top-right-radius: 1rem;
+ }
+
+ .links{
+     display: inline;
+     padding: 2rem;
+     
+     
+     
+ }
+ .white{
+     color: white;
+ }
+ .footer ul{
+     padding-inline-start: 0px;
+ }
+ .white{
+     color: #3B82F6;
+     'Oxygen', Arial, Helvetica, sans-serif;
+ }
+ .tag{
+    color: white;
+    background-color: #3B82F6;
+ }
